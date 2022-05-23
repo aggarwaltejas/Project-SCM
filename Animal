@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Animals Day</title>
+    <style>
+body{
+    background: rgba(216, 96, 216, 0.404);
+    font-family: cursive;
+    font-size: 25px;
+}
+
+        .world-image{
+            width:100%;         
+            height:50%;
+            align:center;
+            
+        }
+        h1{
+            text-align: center;
+        }
+        .heading{
+            font-size: 50px;
+            text-align: center;
+        }
+        .world-day{
+            border-radius: 50px;
+            box-shadow: rgb(130 124 114) 4px 4px 10px;
+        }
+        blockquote{
+            border-left-color: rgb(143, 61, 102);
+            border-left: 3px solid #cc0066;
+            background-image: initial;
+            background-color: rgba(161, 224, 235, 0.459);
+            padding-left: 100px;
+            padding-right: 100px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            position: relative;
+            font-family:itc_avant_garde_gothic_ltM;
+            font-style: italic;
+            font-size: 25px;
+            margin-left: 80px;
+            margin-right: 180px;
+            border-radius: 15px;
+            box-shadow: rgb(130 124 114) 4px 4px 10px;
+        }
+        #elementor-section{
+            flex-wrap: nowrap;
+        }
+        .grid-container3 {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+            grid-gap: 10px;
+            box-sizing: initial;
+            box-shadow: lightblue; 
+        }
+        .grid-child-3{
+            margin: 22px;
+        }
+        #content {
+            width: 85%;
+            border: 15px solid rgba(186, 126, 241, 0.342);
+            padding-top: 40px;  
+            padding-left: 100px;
+            padding-right: 100px;
+            padding-bottom: 50px;
+            margin: 2%;
+            box-shadow: rgb(130 124 114) 4px 4px 10px;
+        }  
+
+        .footer{
+            background-image: initial;
+            background: rgba(169, 93, 231, 0.397);
+            border-top:5px solid rgb(235, 231, 222);
+            border-bottom:5px solid rgb(235, 231, 222);
+            box-sizing: initial;
+            min-height:500px;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top:50px;
+            padding-bottom: 50px;
+            display: flex;
+        }
+        .float{
+            width:50%;
+            margin:50px;
+            padding-left: 75px;
+            padding-top: 70px;
+            padding-right: 75px;
+            padding-bottom: 70px;
+            font-family: cursive;
+            font-size: 22px;
+            letter-spacing: 1px;
+            background-color: rgb(235, 232, 226);
+        }
+        #float2{
+            text-align: center;
+        }
+        
+    </style>
+<body>
+    <p><strong>&nbsp;</strong></p>
+    <div id="world-image">
+        <img  class="world-day" width=100% height=50% src="https://i.ytimg.com/vi/GcN0GgfROW4/maxresdefault.jpg">
+    </div>
+  
+    <p><strong>&nbsp;</strong></p>
+    <br>
+            <blockquote>
+                <h1 style="color:darkmagenta;";><strong>“It is much easier to show compassion to animals. They are never wicked.”</strong></h1>
+            </blockquote>
+   <p><strong>&nbsp;</strong></p>
+   <br>
+    
+    <section class=elementor-section>
+        <div class="grid-container3">
+        <div class="grid-child-3">
+            <img width="280" height="420"  src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2022/01/1.png?fit=200%2C300&amp;ssl=1" class="attachment-large size-large" alt="" loading="lazy">
+</div>
+        
+        <div class="grid-child-3">
+            <img width="280" height="420" src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2022/01/2.png?fit=200%2C300&amp;ssl=1" class="attachment-large size-large" alt="Homeless Dog population" loading="lazy">
+        </div>
+        <div class="grid-child-3">
+            <img width="280" height="420" src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2022/01/3.png?fit=200%2C300&amp;ssl=1" class="attachment-large size-large" alt="Street cats statistics" loading="lazy">
+        </div>
+        <div class="grid-child-3">
+            <img width="280" height="420" src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2022/01/4.png?fit=200%2C300&amp;ssl=1" class="attachment-large size-large" alt="Homeless Dogs and cats population in shelters" loading="lazy">
+        </div>
+        <div class="grid-child-3">
+            <img width="280" height="420" src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2022/01/5.png?fit=200%2C300&amp;ssl=1" class="attachment-large size-large" alt="People who dont want dogs" loading="lazy">
+        </div>
+        <div class="grid-child-3">
+            <img width="280" height="420" src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2022/01/6.png?fit=200%2C300&amp;ssl=1" class="attachment-large size-large" alt="Relinquished pets rate" loading="lazy">
+        </div>
+    </div>
+    </section>
+    
+    <p><strong>&nbsp;</strong></p>
+
+    <div id="content">
+        <p class="heading" >WORLD ANIMALS DAY</p>
+       <h2 style="color: rgb(31, 130, 143);"><br>Celebrate World Animal Day - 4 October</b></h2><br>
+        <strong>
+            <p style="color:rgb(38, 38, 141)">
+            </p>
+        </strong>
+        MISSION: TO RAISE THE STATUS OF ANIMALS IN ORDER TO IMPROVE WELFARE STANDARDS AROUND THE GLOBE 
+        
+        <p>&nbsp;</p>
+<p>
+    To achieve this, we encourage animal welfare organisations, community groups, youth and children’s clubs, businesses and individuals to organise events in celebration of World Animal Day. Involvement is growing at an astonishing rate and it's now widely accepted and celebrated in a variety of different ways in many countries, with no regard to nationality, religion, faith or political ideology.
+</p>
+  
+<p>
+    Events are organised under the World Animal Day Umbrella by being publicised on this website and advertised using the World Animal Day brand and logo. Global branding effectively ties all events together and, over the years we have found this approach to be particularly helpful to grassroots groups who struggle to attract media attention in order to raise awareness of their work and fundraise. This draws attention to animal issues and makes them front-page news – a vital catalyst for change. Each year the logo becomes more widely recognised as a global brand for animals.  A brand that unites the animal welfare movement - firmly establishing itself as a platform for raising the status of animals.
+</p>
+ 
+<p>
+    Participation in World Animal Day will continue to grow until it reaches and connects animal advocates in all corners of the world.  It's something that everyone can join in with, whether they are part of an organisation, group, or an individual.  We regularly receive wonderfully inspiring messages about World Animal Day from animal advocates around the world.  For example: “Thank you once again for your inspiration and support towards this auspicious World Animal Day that continues to make a huge difference for animals in Africa and the world at large.” Josphat Ngonyo, Executive Director, Africa Network for Animal Welfare, and "What World Animal Day is doing for animals is truly influencing all of us in amazing ways."
+</p>
+    </div>
+<p><strong>&nbsp;</strong></p>
+    
+    <div>
+        <section>
+            <div class="footer">
+                <div class="float">
+                    <p class="info-left">LIFE MATTERS.COM Foundation of India is a 501(c)3 charitable organization, and all donations to help India’s stray animals are tax-deductible to the fullest extent of the law. 100% of the contribution goes directly to the rescue. .EIN: 85-1128778. Our Florida registration number is N20000005346.</p>
+                    <p class="info-left">lifematters.com.org</p>
+                </div>
+                    
+                <div class="float" id="float2">
+                <p class="info-right">
+                    Contact Us
+                </p>
+                <p>CONTACT NO :+91 9834679832</p>                
+                <p>ADDRESSS: SECTOR 19, Hyderabad</p>
+                <p>EMAIL: lifematters.com.org</p>
+            </div>
+        </section>
+    </div>
+</body>
+</head>
+</html>
