@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="footerstylesheet.css">
+    <style>
+        .centered {
+            position: absolute;
+            font-size: 80px;
+            color: white;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);}
+
+        .widget-image {
+        display: inline-block;
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+}
+        .grid-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin:120px;
+            box-sizing: initial;
+            box-shadow: lightblue; 
+        }
+        .grid-child{
+            padding:25px
+        }
+        
+        body{ 
+            background-color: rgb(245, 179, 225);
+            font-family: cursive;
+        }
+        /*media query*/
+        @media screen and (max-width: 768px) {
+        .centered {   
+            font-size: 30px;}
+        }
+
+    </style>
+</head>
+<body>
+    <p><strong>&nbsp;</strong></p>
+    <div id="container">
+        <div class="first-img">
+            <img src="https://welttierschutz.org/wp-content/uploads/2014/10/©-Fotolia_81774281_L_vicspacewalker.jpg" width="1600" height="800" srcset="https://welttierschutz.org/wp-content/uploads/2014/10/©-Fotolia_81774281_L_vicspacewalker.jpg 1600w, https://welttierschutz.org/wp-content/uploads/2014/10/©-Fotolia_81774281_L_vicspacewalker-300x150.jpg 300w, https://welttierschutz.org/wp-content/uploads/2014/10/©-Fotolia_81774281_L_vicspacewalker-768x384.jpg 768w, https://welttierschutz.org/wp-content/uploads/2014/10/©-Fotolia_81774281_L_vicspacewalker-1024x512.jpg 1024w, https://welttierschutz.org/wp-content/uploads/2014/10/©-Fotolia_81774281_L_vicspacewalker-1110x555.jpg 1110w" sizes="(max-width: 1600px) 100vw, 1600px" title="Two Stray Cats on Garbage Containers" class="widget-image" loading="lazy">
+        </div>
+        <div class="centered">
+            <strong>
+             OUR SUCESS STORIES
+            </strong> 
+         </div>
+
+         <p><strong>&nbsp;</strong></p>
+         <div class="img-rescue">
+        <div class="grid-container">
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Bony.png?w=500&ssl=1">
+                </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Heera.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Yodh.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Whitey.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Veeru.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Vani.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/TrioPups.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Sunny.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+<img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Skinny.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/SimbaPumba.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Shaggy.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Rani.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Rana.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Priya.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Potti.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Pari.png?w=500&ssl=1">            
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Panni.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Buffer.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Noah.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Happy.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/OrphanedVeeruPuppies.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Meena.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Max.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/LionBheem.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Laddu.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Glory.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Buffer.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Binny.png?w=500&ssl=1">
+            </div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Bannu.png?w=500&ssl=1">
+
+</div>
+            <div class="grid-child">
+                <img src="https://i0.wp.com/strayanimalfoundationindia.org/wp-content/uploads/2021/03/Chandra.png?w=500&ssl=1">
+            </div>
+        </div>
+    </div>
+    </div>
+    <div>
+        <section>
+            <div class="footer">
+                <div class="float">
+                    <p class="info-left">LIFE MATTERS.COM Foundation of India is a 501(c)3 charitable organization, and all donations to help India’s stray animals are tax-deductible to the fullest extent of the law. 100% of the contribution goes directly to the rescue. .EIN: 85-1128778. Our Florida registration number is N20000005346.</p>
+                    <p class="info-left">lifematters.com.org</p>
+                </div>
+                    
+                <div class="float" id="float2">
+                <p class="info-right">
+                    Contact Us
+                </p>
+                <p>CONTACT NO :+91 9834679832</p>                
+                <p>ADDRESSS: SECTOR 19, Hyderabad</p>
+                <p>EMAIL: lifematters.com.org</p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
